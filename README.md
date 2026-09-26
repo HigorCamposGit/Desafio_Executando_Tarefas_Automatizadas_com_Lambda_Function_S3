@@ -3,7 +3,7 @@
 
 ---
 **Repositório foi criado para entregar o desafio prático de automação na AWS do curso: **Formação AWS Cloud Foundations** da **Digital Innovation One (DIO)**.
-** Aulas ministradas pelo Prefessor: `Alexsandro Lechner`. `Arquiteto de Soluções AWS`.
+- Aulas ministradas pelo Prefessor: `Alexsandro Lechner`. `Arquiteto de Soluções AWS`.
 ---
 **Resumo das aulas: 
 - Automação e DevOps na AWS. Tarefas com Lambda e S3.
