@@ -4,11 +4,23 @@
 ---
 **Repositório foi criado para entregar o desafio prático de automação na AWS do curso: **Formação AWS Cloud Foundations** da **Digital Innovation One (DIO)**.
 ** Aulas ministradas pelo Prefessor: `Alexsandro Lechner`. `Arquiteto de Soluções AWS`.
-
-O objetivo do exercício foi colocar a mão na massa e entender na prática como integrar serviços da AWS de forma automatizada.
-
 ---
-## 
+**Resumo das aulas: 
+- Automação e DevOps na AWS. Tarefas com Lambda e S3.
+- Amazon S3: serviço de "armazenamento" (vídeo, áudio, docs imagens, etc ) em nuvem da AWS.
+- Principais vantagens do S3: Durabilidade: altamente confiável com redundância para proteger contra falhas. Disponibilidade: grande acesso contínuo aos dados. Escalabilidade: ajusta automaticamente a capacidade de armazenamento conforme a necessidade. Segurança: oferece criptografia, controle de acesso e monitoramentos de atividades.
+---
+- AWS Lambda é um serviço de computação serveless, permite executar códigos sem a necessidade de gerenciar servidores. Fazer upload do código e o lambda se encarrega de executar automaticamente, escalando de acordo com a demanda.
+ 
+-Tarefas com Lambda e S3. Principais vantagens do Lambda: Execução sob demanda, o código é executado apenas quando necessário. Escalabilidade automática: Ajusta a capacidade automaticamente com base no número de eventos. Custo eficiente: Cobra apenas pelo tempo de execução e pela quantidade de solicitações. Integração com outros serviços AWS: Funciona como um conector entre diversos serviços, como S3, DynamoDB, API Gateway.
+- Importante: `execução por evento ou seja pequenas execuções`.
+- `Lambda Function é robusto, mas recomendação segundo o professor não trabalhar como microsserviço`.
+---
+- AWS Local com LocalStack: Projeto OpenSource que ajuda a simular localmente a AWS.
+---
+HandsOn: colocar a mão na massa e entender na prática como integrar serviços da AWS de forma automatizada.
+
+
 ---
 
 ## 💡 O que foi feito no projeto?
@@ -52,4 +64,11 @@ Para deixar o processo rápido e repetível, utilizei o **AWS CloudFormation** p
 - **Testes Locais:** Usar o **LocalStack** facilitou muito o aprendizado, pois pude errar e testar os comandos pelo terminal sem medo de gerar custos na conta da AWS.
 
 ---
-*Projeto desenvolvido para fins de estudo no bootcamp da DIO.*
+
+## 🤝 Conecte-se comigo!
+
+Gostou do projeto ou quer trocar ideias sobre estudos em Cloud, AWS e tecnologia? Vamos nos conectar:
+
+- **GitHub:** [HigorCamposGit](https://github.com/HigorCamposGit)
+
+---
