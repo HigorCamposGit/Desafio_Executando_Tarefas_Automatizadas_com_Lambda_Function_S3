@@ -9,10 +9,8 @@
 - Automação e DevOps na AWS. Tarefas com Lambda e S3.
 - Amazon S3: serviço de "armazenamento" (vídeo, áudio, docs imagens, etc ) em nuvem da AWS.
 - Principais vantagens do S3: Durabilidade: altamente confiável com redundância para proteger contra falhas. Disponibilidade: grande acesso contínuo aos dados. Escalabilidade: ajusta automaticamente a capacidade de armazenamento conforme a necessidade. Segurança: oferece criptografia, controle de acesso e monitoramentos de atividades.
----
 - AWS Lambda é um serviço de computação serveless, permite executar códigos sem a necessidade de gerenciar servidores. Fazer upload do código e o lambda se encarrega de executar automaticamente, escalando de acordo com a demanda.
- 
--Tarefas com Lambda e S3. Principais vantagens do Lambda: Execução sob demanda, o código é executado apenas quando necessário. Escalabilidade automática: Ajusta a capacidade automaticamente com base no número de eventos. Custo eficiente: Cobra apenas pelo tempo de execução e pela quantidade de solicitações. Integração com outros serviços AWS: Funciona como um conector entre diversos serviços, como S3, DynamoDB, API Gateway.
+ -Tarefas com Lambda e S3. Principais vantagens do Lambda: Execução sob demanda, o código é executado apenas quando necessário. Escalabilidade automática: Ajusta a capacidade automaticamente com base no número de eventos. Custo eficiente: Cobra apenas pelo tempo de execução e pela quantidade de solicitações. Integração com outros serviços AWS: Funciona como um conector entre diversos serviços, como S3, DynamoDB, API Gateway.
 - Importante: `execução por evento ou seja pequenas execuções`.
 - `Lambda Function é robusto, mas recomendação segundo o professor não trabalhar como microsserviço`.
 ---
