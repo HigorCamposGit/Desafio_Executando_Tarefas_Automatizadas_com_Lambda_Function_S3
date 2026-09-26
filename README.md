@@ -1,5 +1,5 @@
 # Desafio_Executando_Tarefas_Automatizadas_com_Lambda_Function_S3.
-# Desafio DIO: Processamento de Arquivos com S3, Lambda e DynamoDB.
+** Desafio DIO: Processamento de Arquivos com S3, Lambda e DynamoDB.
 
 ---
 **Repositório foi criado para entregar o desafio prático de automação na AWS do curso: **Formação AWS Cloud Foundations** da **Digital Innovation One (DIO)**.
