@@ -41,7 +41,7 @@ A ideia central do projeto é criar um fluxo automático sem a necessidade de ge
 - **CRIAÇÃO DE RECURSOS E TRABALHANDO COM ARQUIVOS: [Localstack:]**(https://localstack.cloud/).
 - **Localstack:**  Ferramenta para simular o ambiente da AWS no próprio computador e testar tudo sem gastar nada.
 - **[Draw.io:]** (https://app.diagrams.net/) Usado nas aulas para desenhar e visualizar o diagrama da arquitetura.
-- **[Github:]** Para subir os arquivos do projeto.
+- **[Github:]** (https://github.com/) Para subir os arquivos do projeto.
 
 ---
 
