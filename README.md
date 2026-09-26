@@ -2,7 +2,7 @@
 ** Desafio DIO: Processamento de Arquivos com S3, Lambda e DynamoDB.
 
 ---
-**Repositório foi criado para entregar o:  `Desafio prático de automação na AWS` do curso: `Formação AWS Cloud Foundations` da **Digital Innovation One (DIO)**.
+**Repositório foi criado para entregar o:  `Desafio prático de automação na AWS` do curso: `Formação AWS Cloud Foundations` da **[Digital Innovation One (DIO)]** (https://www.dio.me/).
 - Aulas ministradas pelo Prefessor: `Alexsandro Lechner`. `Arquiteto de Soluções AWS`.
 ---
 **Resumo das aulas: 
@@ -13,7 +13,7 @@
  -Tarefas com Lambda e S3. Principais vantagens do Lambda: Execução sob demanda, o código é executado apenas quando necessário. Escalabilidade automática: Ajusta a capacidade automaticamente com base no número de eventos. Custo eficiente: Cobra apenas pelo tempo de execução e pela quantidade de solicitações. Integração com outros serviços AWS: Funciona como um conector entre diversos serviços, como S3, DynamoDB, API Gateway.
 - Importante: `execução por evento ou seja pequenas execuções`.
 - `Lambda Function é robusto, mas recomendação segundo o professor não trabalhar como microsserviço`.
-- AWS Local com LocalStack: Projeto OpenSource que ajuda a simular localmente a AWS.
+- **AWS Local com `LocalStack`: Projeto OpenSource que ajuda a simular localmente a AWS**.
 ---
 ## 💡 HandsOn: como foi feito no projeto?
 
