@@ -2,7 +2,7 @@
 ** Desafio DIO: Processamento de Arquivos com S3, Lambda e DynamoDB.
 
 ---
-**Repositório foi criado para entregar o desafio prático de automação na AWS do curso: **Formação AWS Cloud Foundations** da **Digital Innovation One (DIO)**.
+**Repositório foi criado para entregar o:  "Desafio prático de automação na AWS" do curso: **Formação AWS Cloud Foundations** da **Digital Innovation One (DIO)**.
 - Aulas ministradas pelo Prefessor: `Alexsandro Lechner`. `Arquiteto de Soluções AWS`.
 ---
 **Resumo das aulas: 
