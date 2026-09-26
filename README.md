@@ -15,9 +15,9 @@
 - `Lambda Function é robusto, mas recomendação segundo o professor não trabalhar como microsserviço`.
 - AWS Local com LocalStack: Projeto OpenSource que ajuda a simular localmente a AWS.
 ---
-## 💡 O que foi feito no projeto?
+## 💡 HandsOn: como foi feito no projeto?
 
-A ideia central do projeto é criar um fluxo automático sem a necessidade de gerenciar servidores (*Serverless*):
+A ideia central do projeto é criar um fluxo automático sem a necessidade de gerenciar servidores *Serverless*:
 
 1. **Envio do arquivo:** O usuário faz o upload de um arquivo `.json` no bucket do **Amazon S3**.
 2. **Gatilho (Trigger):** Assim que o S3 recebe o arquivo, ele avisa o **AWS Lambda** de forma automática.
