@@ -38,7 +38,7 @@ A ideia central do projeto é criar um fluxo automático sem a necessidade de ge
 - **Amazon DynamoDB:** Banco de dados para salvar os registros.
 - **AWS IAM:** Gerenciamento de acessos e segurança.
 - **AWS CloudFormation:** Para subir toda essa estrutura de uma vez só por código.
-- **[localstack:]** (https://localstack.cloud/) Ferramenta para simular o ambiente da AWS no próprio computador e testar tudo sem gastar nada.
+- **[Localstack:]** (https://localstack.cloud/) Ferramenta para simular o ambiente da AWS no próprio computador e testar tudo sem gastar nada.
 - **[Draw.io:]** (https://app.diagrams.net/) Usado nas aulas para desenhar e visualizar o diagrama da arquitetura.
 - **[Github:]** Para subir os arquivos do projeto.
 
