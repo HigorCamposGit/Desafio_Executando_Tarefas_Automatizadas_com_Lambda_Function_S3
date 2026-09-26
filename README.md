@@ -25,6 +25,7 @@ A ideia central do projeto é criar um fluxo automático sem a necessidade de ge
 4. **Banco de dados:** A função grava esses dados em uma tabela do **Amazon DynamoDB**.
 5. **Permissões:** O **AWS IAM** cuida para que o Lambda tenha acesso seguro ao **S3** e ao **DynamoDB**.
 6. **AWS CloudFormation:** Para criar a infraestrutura através de código **(IaC)** e deixar o processo rápido e repetível.
+   ![Diagrama da Arquitetura AWS](./Upload_DynamoDB.png)
 
 ---
 
