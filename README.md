@@ -36,7 +36,7 @@ Para deixar o processo rápido e repetível, utilizei o **AWS CloudFormation** p
 - **Amazon DynamoDB:** Banco de dados para salvar os registros.
 - **AWS IAM:** Gerenciamento de acessos e segurança.
 - **AWS CloudFormation:** Para subir toda essa estrutura de uma vez só por código.
-- **[LocalStack:](https://localstack.cloud/) Ferramenta fantástica para simular o ambiente da AWS no próprio computador e testar tudo sem gastar nada.
+- **[[localstack:]** (https://localstack.cloud/) Ferramenta fantástica para simular o ambiente da AWS no próprio computador e testar tudo sem gastar nada.
 - **[Draw.io:]** (https://app.diagrams.net/) Usado nas aulas para desenhar e visualizar o diagrama da arquitetura.
 
 ---
