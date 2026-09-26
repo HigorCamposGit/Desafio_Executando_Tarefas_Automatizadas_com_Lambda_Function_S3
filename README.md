@@ -38,23 +38,23 @@ A ideia central do projeto é criar um fluxo automático sem a necessidade de ge
 - **Amazon DynamoDB:** Banco de dados para salvar os registros.
 - **AWS IAM:** Gerenciamento de acessos e segurança.
 - **AWS CloudFormation:** Para subir toda essa estrutura de uma vez só por código.
-- **[Localstack:]** (https://localstack.cloud/) Ferramenta para simular o ambiente da AWS no próprio computador e testar tudo sem gastar nada.
+- **CRIAÇÃO DE RECURSOS E TRABALHANDO COM ARQUIVOS: [Localstack:]**(https://localstack.cloud/).
+- **Localstack:**  Ferramenta para simular o ambiente da AWS no próprio computador e testar tudo sem gastar nada.
 - **[Draw.io:]** (https://app.diagrams.net/) Usado nas aulas para desenhar e visualizar o diagrama da arquitetura.
 - **[Github:]** Para subir os arquivos do projeto.
 
 ---
 
-## 🧠 Principais Aprendizados e Insights
+## 🧠 Principais Aprendizados.
 
 - **Entendimento de eventos:** Percebi como os serviços da nuvem conversam entre si. Não preciso de uma máquina ligada 24 horas; o código só roda quando o arquivo chega.
 - **Infraestrutura como Código:** Criar os recursos direto no CloudFormation economiza muito tempo e evita erros manuais no painel da AWS.
-- **Testes Locais:** Usar o **LocalStack** facilitou muito o aprendizado, pois pude errar e testar os comandos pelo terminal sem medo de gerar custos na conta da AWS.
+- `**Testes Locais:** Usar o **LocalStack** facilitou muito o aprendizado, pois pude errar e testar os comandos pelo terminal sem medo de gerar custos na conta da AWS`.
 
 ---
 
 ## 🤝 Conecte-se comigo!
-
-Gostou do projeto ou quer trocar ideias sobre estudos em Cloud, AWS e tecnologia? Vamos nos conectar:
+Vamos nos conectar:
 
 - **GitHub:** [HigorCamposGit](https://github.com/HigorCamposGit)
 
